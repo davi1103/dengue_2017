@@ -1,0 +1,2333 @@
+[
+    {
+        "casos_actuales": 85,
+        "fecha": "2017-10-31",
+        "departamento": "Amazonas",
+        "incidencia": 0.0940454884,
+        "personas fallecidas": 5
+    },
+    {
+        "casos_actuales": 47,
+        "fecha": "2017-06-12",
+        "departamento": "Cusco",
+        "incidencia": 0.18382067670000002,
+        "personas fallecidas": 8
+    },
+    {
+        "casos_actuales": 68,
+        "fecha": "2017-10-06",
+        "departamento": "Lima",
+        "incidencia": 0.4606157719,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 66,
+        "fecha": "2017-01-31",
+        "departamento": "Piura",
+        "incidencia": 0.4652420115,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 46,
+        "fecha": "2017-01-24",
+        "departamento": "Piura",
+        "incidencia": 0.13018004090000002,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 81,
+        "fecha": "2017-10-04",
+        "departamento": "Tumbes",
+        "incidencia": 0.4119714854,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 5,
+        "fecha": "2017-09-25",
+        "departamento": "Áncash",
+        "incidencia": 0.0751845226,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 182,
+        "fecha": "2017-11-13",
+        "departamento": "Cusco",
+        "incidencia": 0.9931587759,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 130,
+        "fecha": "2017-03-31",
+        "departamento": "Cajamarca",
+        "incidencia": 0.9364033448,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 66,
+        "fecha": "2017-06-02",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.4154754846,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 154,
+        "fecha": "2017-06-10",
+        "departamento": "Loreto",
+        "incidencia": 0.27992397350000003,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 185,
+        "fecha": "2017-08-16",
+        "departamento": "Cajamarca",
+        "incidencia": 0.47061086300000005,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 2,
+        "fecha": "2017-01-16",
+        "departamento": "Lambayeque",
+        "incidencia": 0.6080077175,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 1,
+        "fecha": "2017-06-04",
+        "departamento": "Ica",
+        "incidencia": 0.8790563075000001,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 69,
+        "fecha": "2017-08-15",
+        "departamento": "Arequipa",
+        "incidencia": 0.8181933448,
+        "personas fallecidas": 5
+    },
+    {
+        "casos_actuales": 67,
+        "fecha": "2017-03-13",
+        "departamento": "Apurímac",
+        "incidencia": 0.32425589380000003,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 110,
+        "fecha": "2017-08-27",
+        "departamento": "Callao",
+        "incidencia": 0.7186336038000001,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 42,
+        "fecha": "2017-04-13",
+        "departamento": "San Martín",
+        "incidencia": 0.279496409,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 15,
+        "fecha": "2017-03-19",
+        "departamento": "Huancavelica",
+        "incidencia": 0.100248868,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 3,
+        "fecha": "2017-08-06",
+        "departamento": "Junín",
+        "incidencia": 0.542198649,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 1,
+        "fecha": "2017-02-27",
+        "departamento": "Puno",
+        "incidencia": 0.6453070964000001,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 110,
+        "fecha": "2017-02-09",
+        "departamento": "Áncash",
+        "incidencia": 0.4064778962,
+        "personas fallecidas": 17
+    },
+    {
+        "casos_actuales": 3,
+        "fecha": "2017-06-10",
+        "departamento": "Tacna",
+        "incidencia": 0.5919019213,
+        "personas fallecidas": 3
+    },
+    {
+        "casos_actuales": 156,
+        "fecha": "2017-05-01",
+        "departamento": "Ica",
+        "incidencia": 0.9719519430000001,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 154,
+        "fecha": "2017-06-11",
+        "departamento": "Moquegua",
+        "incidencia": 0.9041369031000001,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 42,
+        "fecha": "2017-08-14",
+        "departamento": "Lima",
+        "incidencia": 0.1182027925,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 170,
+        "fecha": "2017-04-22",
+        "departamento": "Lima",
+        "incidencia": 0.3441902512,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 47,
+        "fecha": "2017-08-02",
+        "departamento": "Puno",
+        "incidencia": 0.5562832369,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 194,
+        "fecha": "2017-12-23",
+        "departamento": "Ayacucho",
+        "incidencia": 0.9178410224,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 198,
+        "fecha": "2017-04-02",
+        "departamento": "Cajamarca",
+        "incidencia": 0.9292767985,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 84,
+        "fecha": "2017-08-13",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.022441477600000002,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 29,
+        "fecha": "2017-02-12",
+        "departamento": "Callao",
+        "incidencia": 0.9929663375000001,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 11,
+        "fecha": "2017-02-18",
+        "departamento": "Pasco",
+        "incidencia": 0.7152274902,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 8,
+        "fecha": "2017-12-04",
+        "departamento": "Moquegua",
+        "incidencia": 0.8441243219000001,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 20,
+        "fecha": "2017-03-19",
+        "departamento": "San Martín",
+        "incidencia": 0.2650070275,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 3,
+        "fecha": "2017-04-28",
+        "departamento": "Cusco",
+        "incidencia": 0.7470973582,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 148,
+        "fecha": "2017-04-05",
+        "departamento": "Tacna",
+        "incidencia": 0.0730241646,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 35,
+        "fecha": "2017-09-17",
+        "departamento": "Piura",
+        "incidencia": 0.7194090448,
+        "personas fallecidas": 8
+    },
+    {
+        "casos_actuales": 31,
+        "fecha": "2017-11-02",
+        "departamento": "San Martín",
+        "incidencia": 0.0121684601,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 172,
+        "fecha": "2017-09-13",
+        "departamento": "Piura",
+        "incidencia": 0.8525468949,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 176,
+        "fecha": "2017-06-09",
+        "departamento": "Huancavelica",
+        "incidencia": 0.23927683260000002,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 197,
+        "fecha": "2017-09-21",
+        "departamento": "Lambayeque",
+        "incidencia": 0.5717560058,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 80,
+        "fecha": "2017-08-16",
+        "departamento": "Ica",
+        "incidencia": 0.4927318939,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 2,
+        "fecha": "2017-04-29",
+        "departamento": "Huánuco",
+        "incidencia": 0.9409064874,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 165,
+        "fecha": "2017-05-05",
+        "departamento": "Callao",
+        "incidencia": 0.20615890720000002,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 89,
+        "fecha": "2017-10-12",
+        "departamento": "Tacna",
+        "incidencia": 0.6759640328000001,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 124,
+        "fecha": "2017-08-02",
+        "departamento": "Áncash",
+        "incidencia": 0.26228166940000003,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 24,
+        "fecha": "2017-01-04",
+        "departamento": "Pasco",
+        "incidencia": 0.5188930279,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 79,
+        "fecha": "2017-08-25",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.3216535229,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 156,
+        "fecha": "2017-07-14",
+        "departamento": "Pasco",
+        "incidencia": 0.9724827445,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 144,
+        "fecha": "2017-02-25",
+        "departamento": "Junín",
+        "incidencia": 0.5703501711,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 134,
+        "fecha": "2017-07-10",
+        "departamento": "Huancavelica",
+        "incidencia": 0.46706482800000004,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 188,
+        "fecha": "2017-03-23",
+        "departamento": "Loreto",
+        "incidencia": 0.5338931834,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 92,
+        "fecha": "2017-09-27",
+        "departamento": "Áncash",
+        "incidencia": 0.8368813148,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 106,
+        "fecha": "2017-05-02",
+        "departamento": "Lima",
+        "incidencia": 0.2750232653,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 163,
+        "fecha": "2017-05-13",
+        "departamento": "Tacna",
+        "incidencia": 0.5257351461,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 187,
+        "fecha": "2017-04-22",
+        "departamento": "Junín",
+        "incidencia": 0.2541303203,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 183,
+        "fecha": "2017-01-24",
+        "departamento": "Lima",
+        "incidencia": 0.6311264535000001,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 41,
+        "fecha": "2017-12-20",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.9463216627000001,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 106,
+        "fecha": "2017-09-28",
+        "departamento": "Tumbes",
+        "incidencia": 0.4842518415,
+        "personas fallecidas": 5
+    },
+    {
+        "casos_actuales": 95,
+        "fecha": "2017-12-16",
+        "departamento": "Lambayeque",
+        "incidencia": 0.3456905977,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 34,
+        "fecha": "2017-11-23",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.9294439598,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 125,
+        "fecha": "2017-07-26",
+        "departamento": "Callao",
+        "incidencia": 0.1091144193,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 134,
+        "fecha": "2017-03-13",
+        "departamento": "Apurímac",
+        "incidencia": 0.42899507880000004,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 80,
+        "fecha": "2017-01-07",
+        "departamento": "Áncash",
+        "incidencia": 0.3803400059,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 63,
+        "fecha": "2017-10-17",
+        "departamento": "Arequipa",
+        "incidencia": 0.3223813579,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 24,
+        "fecha": "2017-06-14",
+        "departamento": "Ayacucho",
+        "incidencia": 0.6654861641,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 19,
+        "fecha": "2017-08-05",
+        "departamento": "San Martín",
+        "incidencia": 0.3268132784,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 16,
+        "fecha": "2017-06-06",
+        "departamento": "Lambayeque",
+        "incidencia": 0.8825442832,
+        "personas fallecidas": 5
+    },
+    {
+        "casos_actuales": 21,
+        "fecha": "2017-04-09",
+        "departamento": "Junín",
+        "incidencia": 0.4135720444,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 92,
+        "fecha": "2017-03-10",
+        "departamento": "Ica",
+        "incidencia": 0.8495823872,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 118,
+        "fecha": "2017-08-08",
+        "departamento": "Moquegua",
+        "incidencia": 0.8973972012,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 46,
+        "fecha": "2017-12-07",
+        "departamento": "Ucayali",
+        "incidencia": 0.0264132764,
+        "personas fallecidas": 5
+    },
+    {
+        "casos_actuales": 95,
+        "fecha": "2017-10-09",
+        "departamento": "Amazonas",
+        "incidencia": 0.1749179573,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 97,
+        "fecha": "2017-02-05",
+        "departamento": "Cusco",
+        "incidencia": 0.3573268249,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 79,
+        "fecha": "2017-05-30",
+        "departamento": "La Libertad",
+        "incidencia": 0.9735715599,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 144,
+        "fecha": "2017-03-04",
+        "departamento": "Tacna",
+        "incidencia": 0.7601352156000001,
+        "personas fallecidas": 3
+    },
+    {
+        "casos_actuales": 154,
+        "fecha": "2017-09-26",
+        "departamento": "Lambayeque",
+        "incidencia": 0.9333073667,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 4,
+        "fecha": "2017-06-21",
+        "departamento": "Junín",
+        "incidencia": 0.37345133150000004,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 180,
+        "fecha": "2017-08-12",
+        "departamento": "Apurímac",
+        "incidencia": 0.6466352921,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 62,
+        "fecha": "2017-09-14",
+        "departamento": "Callao",
+        "incidencia": 0.5782473261000001,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 139,
+        "fecha": "2017-01-15",
+        "departamento": "Cusco",
+        "incidencia": 0.11009916900000001,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 173,
+        "fecha": "2017-03-06",
+        "departamento": "La Libertad",
+        "incidencia": 0.3728561356,
+        "personas fallecidas": 8
+    },
+    {
+        "casos_actuales": 107,
+        "fecha": "2017-05-09",
+        "departamento": "Tacna",
+        "incidencia": 0.40424724240000004,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 57,
+        "fecha": "2017-03-17",
+        "departamento": "San Martín",
+        "incidencia": 0.4502312007,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 176,
+        "fecha": "2017-01-19",
+        "departamento": "Cajamarca",
+        "incidencia": 0.4206952704,
+        "personas fallecidas": 8
+    },
+    {
+        "casos_actuales": 20,
+        "fecha": "2017-12-28",
+        "departamento": "Lambayeque",
+        "incidencia": 0.8139058155000001,
+        "personas fallecidas": 8
+    },
+    {
+        "casos_actuales": 62,
+        "fecha": "2017-08-20",
+        "departamento": "Huánuco",
+        "incidencia": 0.3037206208,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 163,
+        "fecha": "2017-09-26",
+        "departamento": "Cusco",
+        "incidencia": 0.8920297002,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 171,
+        "fecha": "2017-11-15",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.9502426309,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 94,
+        "fecha": "2017-11-04",
+        "departamento": "Amazonas",
+        "incidencia": 0.1279519763,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 170,
+        "fecha": "2017-11-21",
+        "departamento": "Ica",
+        "incidencia": 0.2319670683,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 9,
+        "fecha": "2017-12-20",
+        "departamento": "Áncash",
+        "incidencia": 0.368164863,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 130,
+        "fecha": "2017-03-03",
+        "departamento": "Apurímac",
+        "incidencia": 0.1919672752,
+        "personas fallecidas": 3
+    },
+    {
+        "casos_actuales": 171,
+        "fecha": "2017-12-26",
+        "departamento": "Tumbes",
+        "incidencia": 0.723664352,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 190,
+        "fecha": "2017-09-09",
+        "departamento": "Loreto",
+        "incidencia": 0.8199332307,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 115,
+        "fecha": "2017-09-19",
+        "departamento": "Arequipa",
+        "incidencia": 0.7047166534,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 95,
+        "fecha": "2017-05-31",
+        "departamento": "Moquegua",
+        "incidencia": 0.6754171113,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 13,
+        "fecha": "2017-11-09",
+        "departamento": "Ayacucho",
+        "incidencia": 0.5759498398,
+        "personas fallecidas": 17
+    },
+    {
+        "casos_actuales": 199,
+        "fecha": "2017-07-04",
+        "departamento": "Huánuco",
+        "incidencia": 0.2711965314,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 27,
+        "fecha": "2017-04-02",
+        "departamento": "Ayacucho",
+        "incidencia": 0.7243563142,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 166,
+        "fecha": "2017-09-08",
+        "departamento": "Cajamarca",
+        "incidencia": 0.026976378800000003,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 45,
+        "fecha": "2017-04-26",
+        "departamento": "Tumbes",
+        "incidencia": 0.6419681123000001,
+        "personas fallecidas": 8
+    },
+    {
+        "casos_actuales": 177,
+        "fecha": "2017-10-02",
+        "departamento": "Amazonas",
+        "incidencia": 0.4751539944,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 105,
+        "fecha": "2017-11-08",
+        "departamento": "Huancavelica",
+        "incidencia": 0.1666193698,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 50,
+        "fecha": "2017-05-12",
+        "departamento": "Loreto",
+        "incidencia": 0.5929584623,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 146,
+        "fecha": "2017-09-15",
+        "departamento": "Tumbes",
+        "incidencia": 0.3210488153,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 69,
+        "fecha": "2017-09-14",
+        "departamento": "Ucayali",
+        "incidencia": 0.8712988166000001,
+        "personas fallecidas": 8
+    },
+    {
+        "casos_actuales": 118,
+        "fecha": "2017-02-06",
+        "departamento": "Amazonas",
+        "incidencia": 0.7497001171000001,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 15,
+        "fecha": "2017-01-11",
+        "departamento": "Loreto",
+        "incidencia": 0.7546713335,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 6,
+        "fecha": "2017-01-21",
+        "departamento": "Huánuco",
+        "incidencia": 0.6763469407,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 40,
+        "fecha": "2017-07-26",
+        "departamento": "Callao",
+        "incidencia": 0.6389991626,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 182,
+        "fecha": "2017-10-24",
+        "departamento": "Amazonas",
+        "incidencia": 0.6168416521,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 5,
+        "fecha": "2017-11-06",
+        "departamento": "Moquegua",
+        "incidencia": 0.6264509647000001,
+        "personas fallecidas": 5
+    },
+    {
+        "casos_actuales": 168,
+        "fecha": "2017-12-25",
+        "departamento": "La Libertad",
+        "incidencia": 0.41298296710000004,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 55,
+        "fecha": "2017-12-02",
+        "departamento": "Lima",
+        "incidencia": 0.2010931024,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 4,
+        "fecha": "2017-08-03",
+        "departamento": "Loreto",
+        "incidencia": 0.3095987531,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 76,
+        "fecha": "2017-12-24",
+        "departamento": "Tacna",
+        "incidencia": 0.4482154231,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 199,
+        "fecha": "2017-01-13",
+        "departamento": "Huánuco",
+        "incidencia": 0.9480456245000001,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 63,
+        "fecha": "2017-12-13",
+        "departamento": "Piura",
+        "incidencia": 0.2930048279,
+        "personas fallecidas": 5
+    },
+    {
+        "casos_actuales": 181,
+        "fecha": "2017-03-30",
+        "departamento": "Pasco",
+        "incidencia": 0.1368162323,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 176,
+        "fecha": "2017-03-02",
+        "departamento": "Ucayali",
+        "incidencia": 0.47118738400000004,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 22,
+        "fecha": "2017-03-17",
+        "departamento": "Tumbes",
+        "incidencia": 0.16028238590000002,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 191,
+        "fecha": "2017-09-15",
+        "departamento": "Áncash",
+        "incidencia": 0.3218160278,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 75,
+        "fecha": "2017-12-22",
+        "departamento": "Ayacucho",
+        "incidencia": 0.1739153799,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 164,
+        "fecha": "2017-11-21",
+        "departamento": "Tacna",
+        "incidencia": 0.621403362,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 21,
+        "fecha": "2017-02-26",
+        "departamento": "Huancavelica",
+        "incidencia": 0.4316660275,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 98,
+        "fecha": "2017-09-30",
+        "departamento": "Junín",
+        "incidencia": 0.9778304908000001,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 200,
+        "fecha": "2017-11-28",
+        "departamento": "Lima",
+        "incidencia": 0.7610963854,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 92,
+        "fecha": "2017-03-24",
+        "departamento": "Lima",
+        "incidencia": 0.37709829840000003,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 193,
+        "fecha": "2017-10-21",
+        "departamento": "Puno",
+        "incidencia": 0.6881439574,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 104,
+        "fecha": "2017-09-27",
+        "departamento": "Loreto",
+        "incidencia": 0.6164446907000001,
+        "personas fallecidas": 3
+    },
+    {
+        "casos_actuales": 137,
+        "fecha": "2017-07-11",
+        "departamento": "Piura",
+        "incidencia": 0.9763382578,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 198,
+        "fecha": "2017-12-11",
+        "departamento": "Tumbes",
+        "incidencia": 0.060707126400000005,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 87,
+        "fecha": "2017-03-09",
+        "departamento": "Cajamarca",
+        "incidencia": 0.46164161680000004,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 48,
+        "fecha": "2017-12-02",
+        "departamento": "Apurímac",
+        "incidencia": 0.1550481586,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 154,
+        "fecha": "2017-04-03",
+        "departamento": "Ayacucho",
+        "incidencia": 0.7677265043,
+        "personas fallecidas": 17
+    },
+    {
+        "casos_actuales": 24,
+        "fecha": "2017-04-24",
+        "departamento": "Piura",
+        "incidencia": 0.1494923907,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 83,
+        "fecha": "2017-09-24",
+        "departamento": "San Martín",
+        "incidencia": 0.8423384033,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 150,
+        "fecha": "2017-04-20",
+        "departamento": "Lima",
+        "incidencia": 0.7292778010000001,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 170,
+        "fecha": "2017-11-24",
+        "departamento": "Junín",
+        "incidencia": 0.2521656161,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 43,
+        "fecha": "2017-02-09",
+        "departamento": "Amazonas",
+        "incidencia": 0.4000225913,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 85,
+        "fecha": "2017-05-31",
+        "departamento": "Puno",
+        "incidencia": 0.5202286711,
+        "personas fallecidas": 3
+    },
+    {
+        "casos_actuales": 106,
+        "fecha": "2017-06-15",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.33283441150000004,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 62,
+        "fecha": "2017-10-26",
+        "departamento": "Ica",
+        "incidencia": 0.651910402,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 76,
+        "fecha": "2017-02-25",
+        "departamento": "Cusco",
+        "incidencia": 0.12087446560000001,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 153,
+        "fecha": "2017-05-02",
+        "departamento": "Ayacucho",
+        "incidencia": 0.9991626021000001,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 92,
+        "fecha": "2017-10-27",
+        "departamento": "Pasco",
+        "incidencia": 0.4298695228,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 16,
+        "fecha": "2017-05-23",
+        "departamento": "Junín",
+        "incidencia": 0.3287896027,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 152,
+        "fecha": "2017-01-10",
+        "departamento": "Junín",
+        "incidencia": 0.0045810611000000005,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 189,
+        "fecha": "2017-09-28",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.1737137964,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 23,
+        "fecha": "2017-08-22",
+        "departamento": "Ayacucho",
+        "incidencia": 0.9521058065,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 73,
+        "fecha": "2017-07-21",
+        "departamento": "San Martín",
+        "incidencia": 0.39935652390000004,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 48,
+        "fecha": "2017-09-27",
+        "departamento": "Lima",
+        "incidencia": 0.0540059629,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 111,
+        "fecha": "2017-12-10",
+        "departamento": "San Martín",
+        "incidencia": 0.8009117982,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 21,
+        "fecha": "2017-04-06",
+        "departamento": "Apurímac",
+        "incidencia": 0.2069107702,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 21,
+        "fecha": "2017-11-26",
+        "departamento": "Moquegua",
+        "incidencia": 0.1265990059,
+        "personas fallecidas": 17
+    },
+    {
+        "casos_actuales": 9,
+        "fecha": "2017-07-15",
+        "departamento": "Ayacucho",
+        "incidencia": 0.9211823933000001,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 91,
+        "fecha": "2017-04-11",
+        "departamento": "Tacna",
+        "incidencia": 0.0152197392,
+        "personas fallecidas": 5
+    },
+    {
+        "casos_actuales": 113,
+        "fecha": "2017-12-01",
+        "departamento": "Apurímac",
+        "incidencia": 0.607169379,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 199,
+        "fecha": "2017-05-12",
+        "departamento": "Moquegua",
+        "incidencia": 0.0446914329,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 180,
+        "fecha": "2017-01-21",
+        "departamento": "Junín",
+        "incidencia": 0.0265170996,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 184,
+        "fecha": "2017-11-05",
+        "departamento": "Arequipa",
+        "incidencia": 0.9684223029000001,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 141,
+        "fecha": "2017-02-25",
+        "departamento": "Puno",
+        "incidencia": 0.8816607042,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 138,
+        "fecha": "2017-07-17",
+        "departamento": "Piura",
+        "incidencia": 0.6407565522,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 66,
+        "fecha": "2017-11-21",
+        "departamento": "Áncash",
+        "incidencia": 0.5861169325000001,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 134,
+        "fecha": "2017-09-19",
+        "departamento": "La Libertad",
+        "incidencia": 0.36803565660000004,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 53,
+        "fecha": "2017-04-08",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.7820982289,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 191,
+        "fecha": "2017-01-19",
+        "departamento": "San Martín",
+        "incidencia": 0.48590191400000005,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 177,
+        "fecha": "2017-11-09",
+        "departamento": "Junín",
+        "incidencia": 0.0033904547,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 141,
+        "fecha": "2017-07-07",
+        "departamento": "Junín",
+        "incidencia": 0.9039667998,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 183,
+        "fecha": "2017-04-19",
+        "departamento": "Junín",
+        "incidencia": 0.300886189,
+        "personas fallecidas": 5
+    },
+    {
+        "casos_actuales": 70,
+        "fecha": "2017-12-25",
+        "departamento": "Lambayeque",
+        "incidencia": 0.118169517,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 33,
+        "fecha": "2017-04-19",
+        "departamento": "Pasco",
+        "incidencia": 0.47392713810000003,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 90,
+        "fecha": "2017-04-15",
+        "departamento": "Apurímac",
+        "incidencia": 0.1878385948,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 59,
+        "fecha": "2017-09-14",
+        "departamento": "Amazonas",
+        "incidencia": 0.5515940612,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 2,
+        "fecha": "2017-12-05",
+        "departamento": "Ayacucho",
+        "incidencia": 0.11808577320000001,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 19,
+        "fecha": "2017-03-20",
+        "departamento": "Ayacucho",
+        "incidencia": 0.111853751,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 88,
+        "fecha": "2017-11-24",
+        "departamento": "Apurímac",
+        "incidencia": 0.44247293,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 184,
+        "fecha": "2017-11-03",
+        "departamento": "Junín",
+        "incidencia": 0.4746473332,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 158,
+        "fecha": "2017-06-05",
+        "departamento": "Ayacucho",
+        "incidencia": 0.598963703,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 163,
+        "fecha": "2017-12-29",
+        "departamento": "Ica",
+        "incidencia": 0.891998421,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 103,
+        "fecha": "2017-06-16",
+        "departamento": "Huancavelica",
+        "incidencia": 0.733423284,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 21,
+        "fecha": "2017-07-23",
+        "departamento": "Apurímac",
+        "incidencia": 0.4920834054,
+        "personas fallecidas": 3
+    },
+    {
+        "casos_actuales": 80,
+        "fecha": "2017-06-12",
+        "departamento": "Huánuco",
+        "incidencia": 0.8049600445,
+        "personas fallecidas": 8
+    },
+    {
+        "casos_actuales": 127,
+        "fecha": "2017-11-22",
+        "departamento": "Cajamarca",
+        "incidencia": 0.7900640458,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 130,
+        "fecha": "2017-01-06",
+        "departamento": "Cusco",
+        "incidencia": 0.010380465,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 12,
+        "fecha": "2017-12-08",
+        "departamento": "Apurímac",
+        "incidencia": 0.947143167,
+        "personas fallecidas": 17
+    },
+    {
+        "casos_actuales": 95,
+        "fecha": "2017-12-29",
+        "departamento": "La Libertad",
+        "incidencia": 0.1703488978,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 38,
+        "fecha": "2017-06-10",
+        "departamento": "Cajamarca",
+        "incidencia": 0.6891386774,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 83,
+        "fecha": "2017-12-01",
+        "departamento": "Ica",
+        "incidencia": 0.9758877548,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 78,
+        "fecha": "2017-01-07",
+        "departamento": "Arequipa",
+        "incidencia": 0.6218507748000001,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 1,
+        "fecha": "2017-06-22",
+        "departamento": "Loreto",
+        "incidencia": 0.5761931775,
+        "personas fallecidas": 3
+    },
+    {
+        "casos_actuales": 46,
+        "fecha": "2017-12-01",
+        "departamento": "Ayacucho",
+        "incidencia": 0.1689976743,
+        "personas fallecidas": 3
+    },
+    {
+        "casos_actuales": 93,
+        "fecha": "2017-01-05",
+        "departamento": "Huancavelica",
+        "incidencia": 0.2076169545,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 93,
+        "fecha": "2017-07-07",
+        "departamento": "Cusco",
+        "incidencia": 0.0763606713,
+        "personas fallecidas": 17
+    },
+    {
+        "casos_actuales": 180,
+        "fecha": "2017-01-21",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.304803307,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 38,
+        "fecha": "2017-01-11",
+        "departamento": "Junín",
+        "incidencia": 0.1615728113,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 27,
+        "fecha": "2017-06-04",
+        "departamento": "Ayacucho",
+        "incidencia": 0.3358911261,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 51,
+        "fecha": "2017-04-04",
+        "departamento": "Piura",
+        "incidencia": 0.9316863216000001,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 57,
+        "fecha": "2017-11-14",
+        "departamento": "Piura",
+        "incidencia": 0.38374821530000003,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 56,
+        "fecha": "2017-05-23",
+        "departamento": "Puno",
+        "incidencia": 0.4275623129,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 69,
+        "fecha": "2017-06-12",
+        "departamento": "Lima",
+        "incidencia": 0.2056842282,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 17,
+        "fecha": "2017-03-02",
+        "departamento": "Callao",
+        "incidencia": 0.1121120827,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 121,
+        "fecha": "2017-05-25",
+        "departamento": "Loreto",
+        "incidencia": 0.4940948871,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 13,
+        "fecha": "2017-08-18",
+        "departamento": "Pasco",
+        "incidencia": 0.9195121820000001,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 129,
+        "fecha": "2017-11-16",
+        "departamento": "Cusco",
+        "incidencia": 0.5287954193000001,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 9,
+        "fecha": "2017-05-18",
+        "departamento": "Amazonas",
+        "incidencia": 0.5843347356,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 155,
+        "fecha": "2017-10-21",
+        "departamento": "La Libertad",
+        "incidencia": 0.9924543943,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 196,
+        "fecha": "2017-10-29",
+        "departamento": "Apurímac",
+        "incidencia": 0.016086774300000002,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 199,
+        "fecha": "2017-10-18",
+        "departamento": "Loreto",
+        "incidencia": 0.7458094291,
+        "personas fallecidas": 3
+    },
+    {
+        "casos_actuales": 42,
+        "fecha": "2017-06-27",
+        "departamento": "Lima",
+        "incidencia": 0.541005558,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 41,
+        "fecha": "2017-06-12",
+        "departamento": "San Martín",
+        "incidencia": 0.29034681360000003,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 3,
+        "fecha": "2017-08-03",
+        "departamento": "Huánuco",
+        "incidencia": 0.614661631,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 110,
+        "fecha": "2017-02-03",
+        "departamento": "Lima",
+        "incidencia": 0.9124957227,
+        "personas fallecidas": 17
+    },
+    {
+        "casos_actuales": 5,
+        "fecha": "2017-07-28",
+        "departamento": "Puno",
+        "incidencia": 0.28745919000000003,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 25,
+        "fecha": "2017-09-11",
+        "departamento": "Pasco",
+        "incidencia": 0.6773336808,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 33,
+        "fecha": "2017-10-16",
+        "departamento": "Piura",
+        "incidencia": 0.2422019665,
+        "personas fallecidas": 17
+    },
+    {
+        "casos_actuales": 133,
+        "fecha": "2017-04-10",
+        "departamento": "La Libertad",
+        "incidencia": 0.7400849530000001,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 42,
+        "fecha": "2017-07-04",
+        "departamento": "Cusco",
+        "incidencia": 0.06253694110000001,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 77,
+        "fecha": "2017-02-18",
+        "departamento": "Áncash",
+        "incidencia": 0.8514505471,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 61,
+        "fecha": "2017-01-28",
+        "departamento": "Tacna",
+        "incidencia": 0.0210642778,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 37,
+        "fecha": "2017-07-21",
+        "departamento": "Pasco",
+        "incidencia": 0.6458246605,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 173,
+        "fecha": "2017-07-28",
+        "departamento": "Pasco",
+        "incidencia": 0.7281444564,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 84,
+        "fecha": "2017-09-11",
+        "departamento": "Ucayali",
+        "incidencia": 0.3500151512,
+        "personas fallecidas": 5
+    },
+    {
+        "casos_actuales": 143,
+        "fecha": "2017-06-01",
+        "departamento": "Lima",
+        "incidencia": 0.6098082077,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 55,
+        "fecha": "2017-08-27",
+        "departamento": "Tumbes",
+        "incidencia": 0.3156314195,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 27,
+        "fecha": "2017-01-19",
+        "departamento": "Lambayeque",
+        "incidencia": 0.3330135019,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 193,
+        "fecha": "2017-01-19",
+        "departamento": "Tumbes",
+        "incidencia": 0.8313847240000001,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 168,
+        "fecha": "2017-11-12",
+        "departamento": "Apurímac",
+        "incidencia": 0.2061379432,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 80,
+        "fecha": "2017-11-08",
+        "departamento": "Cajamarca",
+        "incidencia": 0.2835434309,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 141,
+        "fecha": "2017-11-01",
+        "departamento": "Puno",
+        "incidencia": 0.5003455709,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 198,
+        "fecha": "2017-05-02",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.049693067300000004,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 10,
+        "fecha": "2017-11-21",
+        "departamento": "Callao",
+        "incidencia": 0.24119526830000002,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 160,
+        "fecha": "2017-04-05",
+        "departamento": "Lambayeque",
+        "incidencia": 0.1385752281,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 166,
+        "fecha": "2017-12-19",
+        "departamento": "Huánuco",
+        "incidencia": 0.6624373607,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 145,
+        "fecha": "2017-11-16",
+        "departamento": "Cajamarca",
+        "incidencia": 0.6997103211,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 20,
+        "fecha": "2017-07-13",
+        "departamento": "Áncash",
+        "incidencia": 0.2373596429,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 133,
+        "fecha": "2017-12-31",
+        "departamento": "Huánuco",
+        "incidencia": 0.5970391425,
+        "personas fallecidas": 5
+    },
+    {
+        "casos_actuales": 26,
+        "fecha": "2017-02-12",
+        "departamento": "Huánuco",
+        "incidencia": 0.0367637679,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 50,
+        "fecha": "2017-08-26",
+        "departamento": "Junín",
+        "incidencia": 0.7961372567,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 50,
+        "fecha": "2017-06-12",
+        "departamento": "Puno",
+        "incidencia": 0.5325152292,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 77,
+        "fecha": "2017-07-31",
+        "departamento": "Cusco",
+        "incidencia": 0.5470828538,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 175,
+        "fecha": "2017-05-10",
+        "departamento": "Ayacucho",
+        "incidencia": 0.35265641870000003,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 86,
+        "fecha": "2017-02-22",
+        "departamento": "Lambayeque",
+        "incidencia": 0.8255055869,
+        "personas fallecidas": 8
+    },
+    {
+        "casos_actuales": 37,
+        "fecha": "2017-11-27",
+        "departamento": "Apurímac",
+        "incidencia": 0.8756684592,
+        "personas fallecidas": 8
+    },
+    {
+        "casos_actuales": 100,
+        "fecha": "2017-12-22",
+        "departamento": "Loreto",
+        "incidencia": 0.6854482256000001,
+        "personas fallecidas": 8
+    },
+    {
+        "casos_actuales": 4,
+        "fecha": "2017-01-24",
+        "departamento": "Arequipa",
+        "incidencia": 0.33192091630000004,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 111,
+        "fecha": "2017-07-10",
+        "departamento": "San Martín",
+        "incidencia": 0.7601070550000001,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 50,
+        "fecha": "2017-10-18",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.1222213069,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 85,
+        "fecha": "2017-06-16",
+        "departamento": "Cusco",
+        "incidencia": 0.7807231161,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 119,
+        "fecha": "2017-03-09",
+        "departamento": "La Libertad",
+        "incidencia": 0.017105616,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 158,
+        "fecha": "2017-01-26",
+        "departamento": "Huancavelica",
+        "incidencia": 0.7461053103,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 57,
+        "fecha": "2017-05-06",
+        "departamento": "Ucayali",
+        "incidencia": 0.8233730324,
+        "personas fallecidas": 16
+    },
+    {
+        "casos_actuales": 13,
+        "fecha": "2017-11-21",
+        "departamento": "Puno",
+        "incidencia": 0.8411350659,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 190,
+        "fecha": "2017-12-09",
+        "departamento": "Arequipa",
+        "incidencia": 0.12312249930000001,
+        "personas fallecidas": 8
+    },
+    {
+        "casos_actuales": 70,
+        "fecha": "2017-12-09",
+        "departamento": "Pasco",
+        "incidencia": 0.7814157037,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 159,
+        "fecha": "2017-01-27",
+        "departamento": "Piura",
+        "incidencia": 0.1240643476,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 180,
+        "fecha": "2017-12-06",
+        "departamento": "Loreto",
+        "incidencia": 0.16860475020000001,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 111,
+        "fecha": "2017-03-15",
+        "departamento": "Lambayeque",
+        "incidencia": 0.9758497949,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 40,
+        "fecha": "2017-05-23",
+        "departamento": "Huánuco",
+        "incidencia": 0.3726659751,
+        "personas fallecidas": 17
+    },
+    {
+        "casos_actuales": 68,
+        "fecha": "2017-11-21",
+        "departamento": "Tacna",
+        "incidencia": 0.0246217474,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 140,
+        "fecha": "2017-03-13",
+        "departamento": "Huánuco",
+        "incidencia": 0.2840471813,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 21,
+        "fecha": "2017-06-07",
+        "departamento": "Tumbes",
+        "incidencia": 0.9966306606,
+        "personas fallecidas": 17
+    },
+    {
+        "casos_actuales": 102,
+        "fecha": "2017-03-31",
+        "departamento": "Tumbes",
+        "incidencia": 0.09452377440000001,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 75,
+        "fecha": "2017-04-01",
+        "departamento": "Ica",
+        "incidencia": 0.8244517374,
+        "personas fallecidas": 17
+    },
+    {
+        "casos_actuales": 65,
+        "fecha": "2017-06-29",
+        "departamento": "Cusco",
+        "incidencia": 0.3853255574,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 195,
+        "fecha": "2017-03-10",
+        "departamento": "Tumbes",
+        "incidencia": 0.3615559282,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 193,
+        "fecha": "2017-04-24",
+        "departamento": "Huánuco",
+        "incidencia": 0.7222835745,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 180,
+        "fecha": "2017-10-04",
+        "departamento": "Piura",
+        "incidencia": 0.6452846133,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 108,
+        "fecha": "2017-05-05",
+        "departamento": "Apurímac",
+        "incidencia": 0.46282866370000003,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 157,
+        "fecha": "2017-12-02",
+        "departamento": "Huancavelica",
+        "incidencia": 0.5184948942000001,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 59,
+        "fecha": "2017-04-23",
+        "departamento": "Tumbes",
+        "incidencia": 0.5899770633,
+        "personas fallecidas": 10
+    },
+    {
+        "casos_actuales": 148,
+        "fecha": "2017-07-21",
+        "departamento": "Loreto",
+        "incidencia": 0.6093319162,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 152,
+        "fecha": "2017-10-18",
+        "departamento": "Puno",
+        "incidencia": 0.9475625906,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 62,
+        "fecha": "2017-07-02",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.0383367412,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 86,
+        "fecha": "2017-03-02",
+        "departamento": "Tacna",
+        "incidencia": 0.1489860305,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 122,
+        "fecha": "2017-06-02",
+        "departamento": "Huancavelica",
+        "incidencia": 0.7800879494,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 120,
+        "fecha": "2017-11-25",
+        "departamento": "Ayacucho",
+        "incidencia": 0.5996145114,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 38,
+        "fecha": "2017-10-16",
+        "departamento": "Ucayali",
+        "incidencia": 0.30078605610000003,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 32,
+        "fecha": "2017-08-21",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.3130438669,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 68,
+        "fecha": "2017-02-03",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.7682803677000001,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 108,
+        "fecha": "2017-08-27",
+        "departamento": "Junín",
+        "incidencia": 0.3967171284,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 121,
+        "fecha": "2017-08-09",
+        "departamento": "Áncash",
+        "incidencia": 0.3809010849,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 20,
+        "fecha": "2017-10-01",
+        "departamento": "Cajamarca",
+        "incidencia": 0.3652624458,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 137,
+        "fecha": "2017-06-30",
+        "departamento": "La Libertad",
+        "incidencia": 0.7662207884000001,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 107,
+        "fecha": "2017-11-12",
+        "departamento": "San Martín",
+        "incidencia": 0.917953726,
+        "personas fallecidas": 9
+    },
+    {
+        "casos_actuales": 181,
+        "fecha": "2017-02-03",
+        "departamento": "Arequipa",
+        "incidencia": 0.6842299328,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 186,
+        "fecha": "2017-08-14",
+        "departamento": "Ica",
+        "incidencia": 0.3700334186,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 130,
+        "fecha": "2017-12-23",
+        "departamento": "Ucayali",
+        "incidencia": 0.2562700629,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 125,
+        "fecha": "2017-09-18",
+        "departamento": "Callao",
+        "incidencia": 0.2470592023,
+        "personas fallecidas": 3
+    },
+    {
+        "casos_actuales": 19,
+        "fecha": "2017-09-18",
+        "departamento": "Tumbes",
+        "incidencia": 0.5880822972,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 36,
+        "fecha": "2017-05-17",
+        "departamento": "Callao",
+        "incidencia": 0.23983625420000002,
+        "personas fallecidas": 11
+    },
+    {
+        "casos_actuales": 31,
+        "fecha": "2017-06-02",
+        "departamento": "Pasco",
+        "incidencia": 0.06644907430000001,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 162,
+        "fecha": "2017-02-24",
+        "departamento": "Tacna",
+        "incidencia": 0.21494065710000002,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 19,
+        "fecha": "2017-07-14",
+        "departamento": "Pasco",
+        "incidencia": 0.5492172689,
+        "personas fallecidas": 15
+    },
+    {
+        "casos_actuales": 16,
+        "fecha": "2017-05-04",
+        "departamento": "Puno",
+        "incidencia": 0.0350481454,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 70,
+        "fecha": "2017-10-01",
+        "departamento": "Áncash",
+        "incidencia": 0.21302803110000001,
+        "personas fallecidas": 18
+    },
+    {
+        "casos_actuales": 116,
+        "fecha": "2017-09-05",
+        "departamento": "Ica",
+        "incidencia": 0.0577459733,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 146,
+        "fecha": "2017-07-07",
+        "departamento": "La Libertad",
+        "incidencia": 0.6041929226,
+        "personas fallecidas": 19
+    },
+    {
+        "casos_actuales": 5432,
+        "fecha": "2017-08-27",
+        "departamento": "Madre de Dios",
+        "incidencia": 0.0281484671,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 522,
+        "fecha": "2017-05-01",
+        "departamento": "Ucayali",
+        "incidencia": 0.7718295475,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 594,
+        "fecha": "2017-07-12",
+        "departamento": "Ucayali",
+        "incidencia": 0.3350613707,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 6475,
+        "fecha": "2017-12-21",
+        "departamento": "Piura",
+        "incidencia": 0.066880148,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 4531,
+        "fecha": "2017-07-05",
+        "departamento": "Ucayali",
+        "incidencia": 0.8116459157,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 582,
+        "fecha": "2017-04-02",
+        "departamento": "Lambayeque",
+        "incidencia": 0.4135481727,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 1895,
+        "fecha": "2017-10-30",
+        "departamento": "Junín",
+        "incidencia": 0.6265764659,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 115,
+        "fecha": "2017-07-02",
+        "departamento": "Puno",
+        "incidencia": 0.2203242987,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 1622,
+        "fecha": "2017-02-12",
+        "departamento": "Cajamarca",
+        "incidencia": 0.9180426943000001,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 5,
+        "fecha": "2017-07-01",
+        "departamento": "Lima",
+        "incidencia": 0.6728743004000001,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 1873,
+        "fecha": "2017-03-31",
+        "departamento": "Junín",
+        "incidencia": 0.7874961894,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 434,
+        "fecha": "2017-04-24",
+        "departamento": "Pasco",
+        "incidencia": 0.4199063465,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 15,
+        "fecha": "2017-08-19",
+        "departamento": "Ica",
+        "incidencia": 0.2397018968,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 299,
+        "fecha": "2017-03-02",
+        "departamento": "Tumbes",
+        "incidencia": 0.3415391397,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 370,
+        "fecha": "2017-07-16",
+        "departamento": "Ucayali",
+        "incidencia": 0.1811351182,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 5432,
+        "fecha": "2017-08-27",
+        "departamento": "Puno",
+        "incidencia": 0.0281484671,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 522,
+        "fecha": "2017-05-01",
+        "departamento": "Loreto",
+        "incidencia": 0.7718295475,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 594,
+        "fecha": "2017-07-12",
+        "departamento": "Cajamarca",
+        "incidencia": 0.3350613707,
+        "personas fallecidas": 4
+    },
+    {
+        "casos_actuales": 6475,
+        "fecha": "2017-12-21",
+        "departamento": "Callao",
+        "incidencia": 0.066880148,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": 4531,
+        "fecha": "2017-07-05",
+        "departamento": "Pasco",
+        "incidencia": 0.8116459157,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": 582,
+        "fecha": "2017-04-02",
+        "departamento": "Junín",
+        "incidencia": 0.4135481727,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 1895,
+        "fecha": "2017-10-30",
+        "departamento": "Pasco",
+        "incidencia": 0.6265764659,
+        "personas fallecidas": 7
+    },
+    {
+        "casos_actuales": 115,
+        "fecha": "2017-07-02",
+        "departamento": "Tacna",
+        "incidencia": 0.2203242987,
+        "personas fallecidas": 2
+    },
+    {
+        "casos_actuales": 1622,
+        "fecha": "2017-02-12",
+        "departamento": "Ucayali",
+        "incidencia": 0.9180426943000001,
+        "personas fallecidas": 14
+    },
+    {
+        "casos_actuales": 5,
+        "fecha": "2017-07-01",
+        "departamento": "Ica",
+        "incidencia": 0.6728743004000001,
+        "personas fallecidas": 20
+    },
+    {
+        "casos_actuales": 1873,
+        "fecha": "2017-03-31",
+        "departamento": "Moquegua",
+        "incidencia": 0.7874961894,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 434,
+        "fecha": "2017-04-24",
+        "departamento": "Ica",
+        "incidencia": 0.4199063465,
+        "personas fallecidas": 12
+    },
+    {
+        "casos_actuales": 15,
+        "fecha": "2017-08-19",
+        "departamento": "Lambayeque",
+        "incidencia": 0.2397018968,
+        "personas fallecidas": 13
+    },
+    {
+        "casos_actuales": 299,
+        "fecha": "2017-03-02",
+        "departamento": "Lambayeque",
+        "incidencia": 0.3415391397,
+        "personas fallecidas": 6
+    },
+    {
+        "casos_actuales": 370,
+        "fecha": "2017-07-16",
+        "departamento": "Cusco",
+        "incidencia": 0.1811351182,
+        "personas fallecidas": 1
+    },
+    {
+        "casos_actuales": -999,
+        "fecha": "2017-12-31",
+        "departamento": "San Martín",
+        "incidencia": 0.0,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": -999,
+        "fecha": "2017-12-31",
+        "departamento": "Arequipa",
+        "incidencia": 0.0,
+        "personas fallecidas": 0
+    },
+    {
+        "casos_actuales": -999,
+        "fecha": "2017-12-31",
+        "departamento": "San Martín",
+        "incidencia": 0.0,
+        "personas fallecidas": 0
+    }
+]

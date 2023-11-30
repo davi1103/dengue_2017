@@ -1,0 +1,2333 @@
+[
+    {
+        "fecha": "2017-10-31",
+        "departamento": "UCAYALI",
+        "casos_actuales": 85,
+        "Incidencia": 0.0940454884,
+        "Personas fallecidas": 5
+    },
+    {
+        "fecha": "2017-06-12",
+        "departamento": "UCAYALI",
+        "casos_actuales": 47,
+        "Incidencia": 0.18382067670000002,
+        "Personas fallecidas": 8
+    },
+    {
+        "fecha": "2017-10-06",
+        "departamento": "UCAYALI",
+        "casos_actuales": 68,
+        "Incidencia": 0.4606157719,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-01-31",
+        "departamento": "UCAYALI",
+        "casos_actuales": 66,
+        "Incidencia": 0.4652420115,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-01-24",
+        "departamento": "UCAYALI",
+        "casos_actuales": 46,
+        "Incidencia": 0.13018004090000002,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-10-04",
+        "departamento": "UCAYALI",
+        "casos_actuales": 81,
+        "Incidencia": 0.4119714854,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-09-25",
+        "departamento": "UCAYALI",
+        "casos_actuales": 5,
+        "Incidencia": 0.0751845226,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-11-13",
+        "departamento": "UCAYALI",
+        "casos_actuales": 182,
+        "Incidencia": 0.9931587759,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-03-31",
+        "departamento": "UCAYALI",
+        "casos_actuales": 130,
+        "Incidencia": 0.9364033448,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-06-02",
+        "departamento": "UCAYALI",
+        "casos_actuales": 66,
+        "Incidencia": 0.4154754846,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-06-10",
+        "departamento": "UCAYALI",
+        "casos_actuales": 154,
+        "Incidencia": 0.27992397350000003,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-08-16",
+        "departamento": "UCAYALI",
+        "casos_actuales": 185,
+        "Incidencia": 0.47061086300000005,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-01-16",
+        "departamento": "UCAYALI",
+        "casos_actuales": 2,
+        "Incidencia": 0.6080077175,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-06-04",
+        "departamento": "UCAYALI",
+        "casos_actuales": 1,
+        "Incidencia": 0.8790563075000001,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-08-15",
+        "departamento": "AMAZONAS",
+        "casos_actuales": 69,
+        "Incidencia": 0.8181933448,
+        "Personas fallecidas": 5
+    },
+    {
+        "fecha": "2017-03-13",
+        "departamento": "AMAZONAS",
+        "casos_actuales": 67,
+        "Incidencia": 0.32425589380000003,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-08-27",
+        "departamento": "AMAZONAS",
+        "casos_actuales": 110,
+        "Incidencia": 0.7186336038000001,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-04-13",
+        "departamento": "AMAZONAS",
+        "casos_actuales": 42,
+        "Incidencia": 0.279496409,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-03-19",
+        "departamento": "AMAZONAS",
+        "casos_actuales": 15,
+        "Incidencia": 0.100248868,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-08-06",
+        "departamento": "AMAZONAS",
+        "casos_actuales": 3,
+        "Incidencia": 0.542198649,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-02-27",
+        "departamento": "AMAZONAS",
+        "casos_actuales": 1,
+        "Incidencia": 0.6453070964000001,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-02-09",
+        "departamento": "LORETO",
+        "casos_actuales": 110,
+        "Incidencia": 0.4064778962,
+        "Personas fallecidas": 17
+    },
+    {
+        "fecha": "2017-06-10",
+        "departamento": "LORETO",
+        "casos_actuales": 3,
+        "Incidencia": 0.5919019213,
+        "Personas fallecidas": 3
+    },
+    {
+        "fecha": "2017-05-01",
+        "departamento": "LORETO",
+        "casos_actuales": 156,
+        "Incidencia": 0.9719519430000001,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-06-11",
+        "departamento": "LORETO",
+        "casos_actuales": 154,
+        "Incidencia": 0.9041369031000001,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-08-14",
+        "departamento": "LORETO",
+        "casos_actuales": 42,
+        "Incidencia": 0.1182027925,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-04-22",
+        "departamento": "LORETO",
+        "casos_actuales": 170,
+        "Incidencia": 0.3441902512,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-08-02",
+        "departamento": "LORETO",
+        "casos_actuales": 47,
+        "Incidencia": 0.5562832369,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-12-23",
+        "departamento": "LORETO",
+        "casos_actuales": 194,
+        "Incidencia": 0.9178410224,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-04-02",
+        "departamento": "LORETO",
+        "casos_actuales": 198,
+        "Incidencia": 0.9292767985,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-08-13",
+        "departamento": "LORETO",
+        "casos_actuales": 84,
+        "Incidencia": 0.022441477600000002,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-02-12",
+        "departamento": "LORETO",
+        "casos_actuales": 29,
+        "Incidencia": 0.9929663375000001,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-02-18",
+        "departamento": "LORETO",
+        "casos_actuales": 11,
+        "Incidencia": 0.7152274902,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-12-04",
+        "departamento": "LORETO",
+        "casos_actuales": 8,
+        "Incidencia": 0.8441243219000001,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-03-19",
+        "departamento": "LORETO",
+        "casos_actuales": 20,
+        "Incidencia": 0.2650070275,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-04-28",
+        "departamento": "LORETO",
+        "casos_actuales": 3,
+        "Incidencia": 0.7470973582,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-04-05",
+        "departamento": "PIURA",
+        "casos_actuales": 148,
+        "Incidencia": 0.0730241646,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-09-17",
+        "departamento": "PIURA",
+        "casos_actuales": 35,
+        "Incidencia": 0.7194090448,
+        "Personas fallecidas": 8
+    },
+    {
+        "fecha": "2017-11-02",
+        "departamento": "PIURA",
+        "casos_actuales": 31,
+        "Incidencia": 0.0121684601,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-09-13",
+        "departamento": "PIURA",
+        "casos_actuales": 172,
+        "Incidencia": 0.8525468949,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-06-09",
+        "departamento": "PIURA",
+        "casos_actuales": 176,
+        "Incidencia": 0.23927683260000002,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-09-21",
+        "departamento": "PIURA",
+        "casos_actuales": 197,
+        "Incidencia": 0.5717560058,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-08-16",
+        "departamento": "PIURA",
+        "casos_actuales": 80,
+        "Incidencia": 0.4927318939,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-04-29",
+        "departamento": "PIURA",
+        "casos_actuales": 2,
+        "Incidencia": 0.9409064874,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-05-05",
+        "departamento": "PIURA",
+        "casos_actuales": 165,
+        "Incidencia": 0.20615890720000002,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-10-12",
+        "departamento": "PIURA",
+        "casos_actuales": 89,
+        "Incidencia": 0.6759640328000001,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-08-02",
+        "departamento": "PIURA",
+        "casos_actuales": 124,
+        "Incidencia": 0.26228166940000003,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-01-04",
+        "departamento": "PIURA",
+        "casos_actuales": 24,
+        "Incidencia": 0.5188930279,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-08-25",
+        "departamento": "PIURA",
+        "casos_actuales": 79,
+        "Incidencia": 0.3216535229,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-07-14",
+        "departamento": "PIURA",
+        "casos_actuales": 156,
+        "Incidencia": 0.9724827445,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-02-25",
+        "departamento": "PIURA",
+        "casos_actuales": 144,
+        "Incidencia": 0.5703501711,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-07-10",
+        "departamento": "PIURA",
+        "casos_actuales": 134,
+        "Incidencia": 0.46706482800000004,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-03-23",
+        "departamento": "PIURA",
+        "casos_actuales": 188,
+        "Incidencia": 0.5338931834,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-09-27",
+        "departamento": "PIURA",
+        "casos_actuales": 92,
+        "Incidencia": 0.8368813148,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-05-02",
+        "departamento": "PIURA",
+        "casos_actuales": 106,
+        "Incidencia": 0.2750232653,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-05-13",
+        "departamento": "PIURA",
+        "casos_actuales": 163,
+        "Incidencia": 0.5257351461,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-04-22",
+        "departamento": "PIURA",
+        "casos_actuales": 187,
+        "Incidencia": 0.2541303203,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-01-24",
+        "departamento": "PIURA",
+        "casos_actuales": 183,
+        "Incidencia": 0.6311264535000001,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-12-20",
+        "departamento": "PIURA",
+        "casos_actuales": 41,
+        "Incidencia": 0.9463216627000001,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-09-28",
+        "departamento": "PIURA",
+        "casos_actuales": 106,
+        "Incidencia": 0.4842518415,
+        "Personas fallecidas": 5
+    },
+    {
+        "fecha": "2017-12-16",
+        "departamento": "PIURA",
+        "casos_actuales": 95,
+        "Incidencia": 0.3456905977,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-11-23",
+        "departamento": "PIURA",
+        "casos_actuales": 34,
+        "Incidencia": 0.9294439598,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-07-26",
+        "departamento": "PIURA",
+        "casos_actuales": 125,
+        "Incidencia": 0.1091144193,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-03-13",
+        "departamento": "PIURA",
+        "casos_actuales": 134,
+        "Incidencia": 0.42899507880000004,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-01-07",
+        "departamento": "PIURA",
+        "casos_actuales": 80,
+        "Incidencia": 0.3803400059,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-10-17",
+        "departamento": "PIURA",
+        "casos_actuales": 63,
+        "Incidencia": 0.3223813579,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-06-14",
+        "departamento": "PIURA",
+        "casos_actuales": 24,
+        "Incidencia": 0.6654861641,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-08-05",
+        "departamento": "PIURA",
+        "casos_actuales": 19,
+        "Incidencia": 0.3268132784,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-06-06",
+        "departamento": "PIURA",
+        "casos_actuales": 16,
+        "Incidencia": 0.8825442832,
+        "Personas fallecidas": 5
+    },
+    {
+        "fecha": "2017-04-09",
+        "departamento": "PIURA",
+        "casos_actuales": 21,
+        "Incidencia": 0.4135720444,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-03-10",
+        "departamento": "PIURA",
+        "casos_actuales": 92,
+        "Incidencia": 0.8495823872,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-08-08",
+        "departamento": "PIURA",
+        "casos_actuales": 118,
+        "Incidencia": 0.8973972012,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-12-07",
+        "departamento": "PIURA",
+        "casos_actuales": 46,
+        "Incidencia": 0.0264132764,
+        "Personas fallecidas": 5
+    },
+    {
+        "fecha": "2017-10-09",
+        "departamento": "PIURA",
+        "casos_actuales": 95,
+        "Incidencia": 0.1749179573,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-02-05",
+        "departamento": "PIURA",
+        "casos_actuales": 97,
+        "Incidencia": 0.3573268249,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-05-30",
+        "departamento": "PIURA",
+        "casos_actuales": 79,
+        "Incidencia": 0.9735715599,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-03-04",
+        "departamento": "PIURA",
+        "casos_actuales": 144,
+        "Incidencia": 0.7601352156000001,
+        "Personas fallecidas": 3
+    },
+    {
+        "fecha": "2017-09-26",
+        "departamento": "PIURA",
+        "casos_actuales": 154,
+        "Incidencia": 0.9333073667,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-06-21",
+        "departamento": "PIURA",
+        "casos_actuales": 4,
+        "Incidencia": 0.37345133150000004,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-08-12",
+        "departamento": "PIURA",
+        "casos_actuales": 180,
+        "Incidencia": 0.6466352921,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-09-14",
+        "departamento": "PIURA",
+        "casos_actuales": 62,
+        "Incidencia": 0.5782473261000001,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-01-15",
+        "departamento": "PIURA",
+        "casos_actuales": 139,
+        "Incidencia": 0.11009916900000001,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-03-06",
+        "departamento": "PIURA",
+        "casos_actuales": 173,
+        "Incidencia": 0.3728561356,
+        "Personas fallecidas": 8
+    },
+    {
+        "fecha": "2017-05-09",
+        "departamento": "PIURA",
+        "casos_actuales": 107,
+        "Incidencia": 0.40424724240000004,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-03-17",
+        "departamento": "PIURA",
+        "casos_actuales": 57,
+        "Incidencia": 0.4502312007,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-01-19",
+        "departamento": "PIURA",
+        "casos_actuales": 176,
+        "Incidencia": 0.4206952704,
+        "Personas fallecidas": 8
+    },
+    {
+        "fecha": "2017-12-28",
+        "departamento": "PIURA",
+        "casos_actuales": 20,
+        "Incidencia": 0.8139058155000001,
+        "Personas fallecidas": 8
+    },
+    {
+        "fecha": "2017-08-20",
+        "departamento": "PIURA",
+        "casos_actuales": 62,
+        "Incidencia": 0.3037206208,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-09-26",
+        "departamento": "PIURA",
+        "casos_actuales": 163,
+        "Incidencia": 0.8920297002,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-11-15",
+        "departamento": "PIURA",
+        "casos_actuales": 171,
+        "Incidencia": 0.9502426309,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-11-04",
+        "departamento": "PIURA",
+        "casos_actuales": 94,
+        "Incidencia": 0.1279519763,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-11-21",
+        "departamento": "PIURA",
+        "casos_actuales": 170,
+        "Incidencia": 0.2319670683,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-12-20",
+        "departamento": "PIURA",
+        "casos_actuales": 9,
+        "Incidencia": 0.368164863,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-03-03",
+        "departamento": "PIURA",
+        "casos_actuales": 130,
+        "Incidencia": 0.1919672752,
+        "Personas fallecidas": 3
+    },
+    {
+        "fecha": "2017-12-26",
+        "departamento": "PIURA",
+        "casos_actuales": 171,
+        "Incidencia": 0.723664352,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-09-09",
+        "departamento": "PIURA",
+        "casos_actuales": 190,
+        "Incidencia": 0.8199332307,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-09-19",
+        "departamento": "PIURA",
+        "casos_actuales": 115,
+        "Incidencia": 0.7047166534,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-05-31",
+        "departamento": "PIURA",
+        "casos_actuales": 95,
+        "Incidencia": 0.6754171113,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-11-09",
+        "departamento": "PIURA",
+        "casos_actuales": 13,
+        "Incidencia": 0.5759498398,
+        "Personas fallecidas": 17
+    },
+    {
+        "fecha": "2017-07-04",
+        "departamento": "PIURA",
+        "casos_actuales": 199,
+        "Incidencia": 0.2711965314,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-04-02",
+        "departamento": "PIURA",
+        "casos_actuales": 27,
+        "Incidencia": 0.7243563142,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-09-08",
+        "departamento": "PIURA",
+        "casos_actuales": 166,
+        "Incidencia": 0.026976378800000003,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-04-26",
+        "departamento": "PIURA",
+        "casos_actuales": 45,
+        "Incidencia": 0.6419681123000001,
+        "Personas fallecidas": 8
+    },
+    {
+        "fecha": "2017-10-02",
+        "departamento": "PIURA",
+        "casos_actuales": 177,
+        "Incidencia": 0.4751539944,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-11-08",
+        "departamento": "PIURA",
+        "casos_actuales": 105,
+        "Incidencia": 0.1666193698,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-05-12",
+        "departamento": "PIURA",
+        "casos_actuales": 50,
+        "Incidencia": 0.5929584623,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-09-15",
+        "departamento": "PIURA",
+        "casos_actuales": 146,
+        "Incidencia": 0.3210488153,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-09-14",
+        "departamento": "PIURA",
+        "casos_actuales": 69,
+        "Incidencia": 0.8712988166000001,
+        "Personas fallecidas": 8
+    },
+    {
+        "fecha": "2017-02-06",
+        "departamento": "PIURA",
+        "casos_actuales": 118,
+        "Incidencia": 0.7497001171000001,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-01-11",
+        "departamento": "PIURA",
+        "casos_actuales": 15,
+        "Incidencia": 0.7546713335,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-01-21",
+        "departamento": "PIURA",
+        "casos_actuales": 6,
+        "Incidencia": 0.6763469407,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-07-26",
+        "departamento": "PIURA",
+        "casos_actuales": 40,
+        "Incidencia": 0.6389991626,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-10-24",
+        "departamento": "PIURA",
+        "casos_actuales": 182,
+        "Incidencia": 0.6168416521,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-11-06",
+        "departamento": "PIURA",
+        "casos_actuales": 5,
+        "Incidencia": 0.6264509647000001,
+        "Personas fallecidas": 5
+    },
+    {
+        "fecha": "2017-12-25",
+        "departamento": "PIURA",
+        "casos_actuales": 168,
+        "Incidencia": 0.41298296710000004,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-12-02",
+        "departamento": "PIURA",
+        "casos_actuales": 55,
+        "Incidencia": 0.2010931024,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-08-03",
+        "departamento": "PIURA",
+        "casos_actuales": 4,
+        "Incidencia": 0.3095987531,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-12-24",
+        "departamento": "PIURA",
+        "casos_actuales": 76,
+        "Incidencia": 0.4482154231,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-01-13",
+        "departamento": "PIURA",
+        "casos_actuales": 199,
+        "Incidencia": 0.9480456245000001,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-12-13",
+        "departamento": "PIURA",
+        "casos_actuales": 63,
+        "Incidencia": 0.2930048279,
+        "Personas fallecidas": 5
+    },
+    {
+        "fecha": "2017-03-30",
+        "departamento": "PIURA",
+        "casos_actuales": 181,
+        "Incidencia": 0.1368162323,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-03-02",
+        "departamento": "PIURA",
+        "casos_actuales": 176,
+        "Incidencia": 0.47118738400000004,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-03-17",
+        "departamento": "PIURA",
+        "casos_actuales": 22,
+        "Incidencia": 0.16028238590000002,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-09-15",
+        "departamento": "PIURA",
+        "casos_actuales": 191,
+        "Incidencia": 0.3218160278,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-12-22",
+        "departamento": "PIURA",
+        "casos_actuales": 75,
+        "Incidencia": 0.1739153799,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-11-21",
+        "departamento": "PIURA",
+        "casos_actuales": 164,
+        "Incidencia": 0.621403362,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-02-26",
+        "departamento": "PIURA",
+        "casos_actuales": 21,
+        "Incidencia": 0.4316660275,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-09-30",
+        "departamento": "PIURA",
+        "casos_actuales": 98,
+        "Incidencia": 0.9778304908000001,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-11-28",
+        "departamento": "PIURA",
+        "casos_actuales": 200,
+        "Incidencia": 0.7610963854,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-03-24",
+        "departamento": "PIURA",
+        "casos_actuales": 92,
+        "Incidencia": 0.37709829840000003,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-10-21",
+        "departamento": "PIURA",
+        "casos_actuales": 193,
+        "Incidencia": 0.6881439574,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-09-27",
+        "departamento": "PIURA",
+        "casos_actuales": 104,
+        "Incidencia": 0.6164446907000001,
+        "Personas fallecidas": 3
+    },
+    {
+        "fecha": "2017-07-11",
+        "departamento": "PIURA",
+        "casos_actuales": 137,
+        "Incidencia": 0.9763382578,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-12-11",
+        "departamento": "PIURA",
+        "casos_actuales": 198,
+        "Incidencia": 0.060707126400000005,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-03-09",
+        "departamento": "PIURA",
+        "casos_actuales": 87,
+        "Incidencia": 0.46164161680000004,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-12-02",
+        "departamento": "PIURA",
+        "casos_actuales": 48,
+        "Incidencia": 0.1550481586,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-04-03",
+        "departamento": "PIURA",
+        "casos_actuales": 154,
+        "Incidencia": 0.7677265043,
+        "Personas fallecidas": 17
+    },
+    {
+        "fecha": "2017-04-24",
+        "departamento": "PIURA",
+        "casos_actuales": 24,
+        "Incidencia": 0.1494923907,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-09-24",
+        "departamento": "PIURA",
+        "casos_actuales": 83,
+        "Incidencia": 0.8423384033,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-04-20",
+        "departamento": "PIURA",
+        "casos_actuales": 150,
+        "Incidencia": 0.7292778010000001,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-11-24",
+        "departamento": "PIURA",
+        "casos_actuales": 170,
+        "Incidencia": 0.2521656161,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-02-09",
+        "departamento": "PIURA",
+        "casos_actuales": 43,
+        "Incidencia": 0.4000225913,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-05-31",
+        "departamento": "PIURA",
+        "casos_actuales": 85,
+        "Incidencia": 0.5202286711,
+        "Personas fallecidas": 3
+    },
+    {
+        "fecha": "2017-06-15",
+        "departamento": "PIURA",
+        "casos_actuales": 106,
+        "Incidencia": 0.33283441150000004,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-10-26",
+        "departamento": "PIURA",
+        "casos_actuales": 62,
+        "Incidencia": 0.651910402,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-02-25",
+        "departamento": "PIURA",
+        "casos_actuales": 76,
+        "Incidencia": 0.12087446560000001,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-05-02",
+        "departamento": "PIURA",
+        "casos_actuales": 153,
+        "Incidencia": 0.9991626021000001,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-10-27",
+        "departamento": "PIURA",
+        "casos_actuales": 92,
+        "Incidencia": 0.4298695228,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-05-23",
+        "departamento": "PIURA",
+        "casos_actuales": 16,
+        "Incidencia": 0.3287896027,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-01-10",
+        "departamento": "PIURA",
+        "casos_actuales": 152,
+        "Incidencia": 0.0045810611000000005,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-09-28",
+        "departamento": "PIURA",
+        "casos_actuales": 189,
+        "Incidencia": 0.1737137964,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-08-22",
+        "departamento": "PIURA",
+        "casos_actuales": 23,
+        "Incidencia": 0.9521058065,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-07-21",
+        "departamento": "PIURA",
+        "casos_actuales": 73,
+        "Incidencia": 0.39935652390000004,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-09-27",
+        "departamento": "PIURA",
+        "casos_actuales": 48,
+        "Incidencia": 0.0540059629,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-12-10",
+        "departamento": "PIURA",
+        "casos_actuales": 111,
+        "Incidencia": 0.8009117982,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-04-06",
+        "departamento": "PIURA",
+        "casos_actuales": 21,
+        "Incidencia": 0.2069107702,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-11-26",
+        "departamento": "PIURA",
+        "casos_actuales": 21,
+        "Incidencia": 0.1265990059,
+        "Personas fallecidas": 17
+    },
+    {
+        "fecha": "2017-07-15",
+        "departamento": "PIURA",
+        "casos_actuales": 9,
+        "Incidencia": 0.9211823933000001,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-04-11",
+        "departamento": "PIURA",
+        "casos_actuales": 91,
+        "Incidencia": 0.0152197392,
+        "Personas fallecidas": 5
+    },
+    {
+        "fecha": "2017-12-01",
+        "departamento": "PIURA",
+        "casos_actuales": 113,
+        "Incidencia": 0.607169379,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-05-12",
+        "departamento": "PIURA",
+        "casos_actuales": 199,
+        "Incidencia": 0.0446914329,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-01-21",
+        "departamento": "PIURA",
+        "casos_actuales": 180,
+        "Incidencia": 0.0265170996,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-11-05",
+        "departamento": "PIURA",
+        "casos_actuales": 184,
+        "Incidencia": 0.9684223029000001,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-02-25",
+        "departamento": "PIURA",
+        "casos_actuales": 141,
+        "Incidencia": 0.8816607042,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-07-17",
+        "departamento": "PIURA",
+        "casos_actuales": 138,
+        "Incidencia": 0.6407565522,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-11-21",
+        "departamento": "PIURA",
+        "casos_actuales": 66,
+        "Incidencia": 0.5861169325000001,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-09-19",
+        "departamento": "PIURA",
+        "casos_actuales": 134,
+        "Incidencia": 0.36803565660000004,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-04-08",
+        "departamento": "PIURA",
+        "casos_actuales": 53,
+        "Incidencia": 0.7820982289,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-01-19",
+        "departamento": "PIURA",
+        "casos_actuales": 191,
+        "Incidencia": 0.48590191400000005,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-11-09",
+        "departamento": "PIURA",
+        "casos_actuales": 177,
+        "Incidencia": 0.0033904547,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-07-07",
+        "departamento": "PIURA",
+        "casos_actuales": 141,
+        "Incidencia": 0.9039667998,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-04-19",
+        "departamento": "PIURA",
+        "casos_actuales": 183,
+        "Incidencia": 0.300886189,
+        "Personas fallecidas": 5
+    },
+    {
+        "fecha": "2017-12-25",
+        "departamento": "PIURA",
+        "casos_actuales": 70,
+        "Incidencia": 0.118169517,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-04-19",
+        "departamento": "PIURA",
+        "casos_actuales": 33,
+        "Incidencia": 0.47392713810000003,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-04-15",
+        "departamento": "PIURA",
+        "casos_actuales": 90,
+        "Incidencia": 0.1878385948,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-09-14",
+        "departamento": "PIURA",
+        "casos_actuales": 59,
+        "Incidencia": 0.5515940612,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-12-05",
+        "departamento": "PIURA",
+        "casos_actuales": 2,
+        "Incidencia": 0.11808577320000001,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-03-20",
+        "departamento": "PIURA",
+        "casos_actuales": 19,
+        "Incidencia": 0.111853751,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-11-24",
+        "departamento": "PIURA",
+        "casos_actuales": 88,
+        "Incidencia": 0.44247293,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-11-03",
+        "departamento": "PIURA",
+        "casos_actuales": 184,
+        "Incidencia": 0.4746473332,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-06-05",
+        "departamento": "PIURA",
+        "casos_actuales": 158,
+        "Incidencia": 0.598963703,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-12-29",
+        "departamento": "PIURA",
+        "casos_actuales": 163,
+        "Incidencia": 0.891998421,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-06-16",
+        "departamento": "PIURA",
+        "casos_actuales": 103,
+        "Incidencia": 0.733423284,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-07-23",
+        "departamento": "PIURA",
+        "casos_actuales": 21,
+        "Incidencia": 0.4920834054,
+        "Personas fallecidas": 3
+    },
+    {
+        "fecha": "2017-06-12",
+        "departamento": "PIURA",
+        "casos_actuales": 80,
+        "Incidencia": 0.8049600445,
+        "Personas fallecidas": 8
+    },
+    {
+        "fecha": "2017-11-22",
+        "departamento": "PIURA",
+        "casos_actuales": 127,
+        "Incidencia": 0.7900640458,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-01-06",
+        "departamento": "PIURA",
+        "casos_actuales": 130,
+        "Incidencia": 0.010380465,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-12-08",
+        "departamento": "PIURA",
+        "casos_actuales": 12,
+        "Incidencia": 0.947143167,
+        "Personas fallecidas": 17
+    },
+    {
+        "fecha": "2017-12-29",
+        "departamento": "PIURA",
+        "casos_actuales": 95,
+        "Incidencia": 0.1703488978,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-06-10",
+        "departamento": "PIURA",
+        "casos_actuales": 38,
+        "Incidencia": 0.6891386774,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-12-01",
+        "departamento": "PIURA",
+        "casos_actuales": 83,
+        "Incidencia": 0.9758877548,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-01-07",
+        "departamento": "PIURA",
+        "casos_actuales": 78,
+        "Incidencia": 0.6218507748000001,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-06-22",
+        "departamento": "PIURA",
+        "casos_actuales": 1,
+        "Incidencia": 0.5761931775,
+        "Personas fallecidas": 3
+    },
+    {
+        "fecha": "2017-12-01",
+        "departamento": "PIURA",
+        "casos_actuales": 46,
+        "Incidencia": 0.1689976743,
+        "Personas fallecidas": 3
+    },
+    {
+        "fecha": "2017-01-05",
+        "departamento": "PIURA",
+        "casos_actuales": 93,
+        "Incidencia": 0.2076169545,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-07-07",
+        "departamento": "PIURA",
+        "casos_actuales": 93,
+        "Incidencia": 0.0763606713,
+        "Personas fallecidas": 17
+    },
+    {
+        "fecha": "2017-01-21",
+        "departamento": "PIURA",
+        "casos_actuales": 180,
+        "Incidencia": 0.304803307,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-01-11",
+        "departamento": "PIURA",
+        "casos_actuales": 38,
+        "Incidencia": 0.1615728113,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-06-04",
+        "departamento": "PIURA",
+        "casos_actuales": 27,
+        "Incidencia": 0.3358911261,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-04-04",
+        "departamento": "PIURA",
+        "casos_actuales": 51,
+        "Incidencia": 0.9316863216000001,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-11-14",
+        "departamento": "PIURA",
+        "casos_actuales": 57,
+        "Incidencia": 0.38374821530000003,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-05-23",
+        "departamento": "PIURA",
+        "casos_actuales": 56,
+        "Incidencia": 0.4275623129,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-06-12",
+        "departamento": "PIURA",
+        "casos_actuales": 69,
+        "Incidencia": 0.2056842282,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-03-02",
+        "departamento": "PIURA",
+        "casos_actuales": 17,
+        "Incidencia": 0.1121120827,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-05-25",
+        "departamento": "PIURA",
+        "casos_actuales": 121,
+        "Incidencia": 0.4940948871,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-08-18",
+        "departamento": "PIURA",
+        "casos_actuales": 13,
+        "Incidencia": 0.9195121820000001,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-11-16",
+        "departamento": "PIURA",
+        "casos_actuales": 129,
+        "Incidencia": 0.5287954193000001,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-05-18",
+        "departamento": "PIURA",
+        "casos_actuales": 9,
+        "Incidencia": 0.5843347356,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-10-21",
+        "departamento": "PIURA",
+        "casos_actuales": 155,
+        "Incidencia": 0.9924543943,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-10-29",
+        "departamento": "PIURA",
+        "casos_actuales": 196,
+        "Incidencia": 0.016086774300000002,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-10-18",
+        "departamento": "PIURA",
+        "casos_actuales": 199,
+        "Incidencia": 0.7458094291,
+        "Personas fallecidas": 3
+    },
+    {
+        "fecha": "2017-06-27",
+        "departamento": "PIURA",
+        "casos_actuales": 42,
+        "Incidencia": 0.541005558,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-06-12",
+        "departamento": "PIURA",
+        "casos_actuales": 41,
+        "Incidencia": 0.29034681360000003,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-08-03",
+        "departamento": "PIURA",
+        "casos_actuales": 3,
+        "Incidencia": 0.614661631,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-02-03",
+        "departamento": "PIURA",
+        "casos_actuales": 110,
+        "Incidencia": 0.9124957227,
+        "Personas fallecidas": 17
+    },
+    {
+        "fecha": "2017-07-28",
+        "departamento": "PIURA",
+        "casos_actuales": 5,
+        "Incidencia": 0.28745919000000003,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-09-11",
+        "departamento": "PIURA",
+        "casos_actuales": 25,
+        "Incidencia": 0.6773336808,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-10-16",
+        "departamento": "PIURA",
+        "casos_actuales": 33,
+        "Incidencia": 0.2422019665,
+        "Personas fallecidas": 17
+    },
+    {
+        "fecha": "2017-04-10",
+        "departamento": "PIURA",
+        "casos_actuales": 133,
+        "Incidencia": 0.7400849530000001,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-07-04",
+        "departamento": "PIURA",
+        "casos_actuales": 42,
+        "Incidencia": 0.06253694110000001,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-02-18",
+        "departamento": "PIURA",
+        "casos_actuales": 77,
+        "Incidencia": 0.8514505471,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-01-28",
+        "departamento": "PIURA",
+        "casos_actuales": 61,
+        "Incidencia": 0.0210642778,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-07-21",
+        "departamento": "PIURA",
+        "casos_actuales": 37,
+        "Incidencia": 0.6458246605,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-07-28",
+        "departamento": "PIURA",
+        "casos_actuales": 173,
+        "Incidencia": 0.7281444564,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-09-11",
+        "departamento": "PIURA",
+        "casos_actuales": 84,
+        "Incidencia": 0.3500151512,
+        "Personas fallecidas": 5
+    },
+    {
+        "fecha": "2017-06-01",
+        "departamento": "PIURA",
+        "casos_actuales": 143,
+        "Incidencia": 0.6098082077,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-08-27",
+        "departamento": "PIURA",
+        "casos_actuales": 55,
+        "Incidencia": 0.3156314195,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-01-19",
+        "departamento": "PIURA",
+        "casos_actuales": 27,
+        "Incidencia": 0.3330135019,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-01-19",
+        "departamento": "PIURA",
+        "casos_actuales": 193,
+        "Incidencia": 0.8313847240000001,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-11-12",
+        "departamento": "PIURA",
+        "casos_actuales": 168,
+        "Incidencia": 0.2061379432,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-11-08",
+        "departamento": "PIURA",
+        "casos_actuales": 80,
+        "Incidencia": 0.2835434309,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-11-01",
+        "departamento": "PIURA",
+        "casos_actuales": 141,
+        "Incidencia": 0.5003455709,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-05-02",
+        "departamento": "PIURA",
+        "casos_actuales": 198,
+        "Incidencia": 0.049693067300000004,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-11-21",
+        "departamento": "PIURA",
+        "casos_actuales": 10,
+        "Incidencia": 0.24119526830000002,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-04-05",
+        "departamento": "PIURA",
+        "casos_actuales": 160,
+        "Incidencia": 0.1385752281,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-12-19",
+        "departamento": "PIURA",
+        "casos_actuales": 166,
+        "Incidencia": 0.6624373607,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-11-16",
+        "departamento": "PIURA",
+        "casos_actuales": 145,
+        "Incidencia": 0.6997103211,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-07-13",
+        "departamento": "PIURA",
+        "casos_actuales": 20,
+        "Incidencia": 0.2373596429,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-12-31",
+        "departamento": "PIURA",
+        "casos_actuales": 133,
+        "Incidencia": 0.5970391425,
+        "Personas fallecidas": 5
+    },
+    {
+        "fecha": "2017-02-12",
+        "departamento": "PIURA",
+        "casos_actuales": 26,
+        "Incidencia": 0.0367637679,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-08-26",
+        "departamento": "PIURA",
+        "casos_actuales": 50,
+        "Incidencia": 0.7961372567,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-06-12",
+        "departamento": "PIURA",
+        "casos_actuales": 50,
+        "Incidencia": 0.5325152292,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-07-31",
+        "departamento": "PIURA",
+        "casos_actuales": 77,
+        "Incidencia": 0.5470828538,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-05-10",
+        "departamento": "PIURA",
+        "casos_actuales": 175,
+        "Incidencia": 0.35265641870000003,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-02-22",
+        "departamento": "PIURA",
+        "casos_actuales": 86,
+        "Incidencia": 0.8255055869,
+        "Personas fallecidas": 8
+    },
+    {
+        "fecha": "2017-11-27",
+        "departamento": "PIURA",
+        "casos_actuales": 37,
+        "Incidencia": 0.8756684592,
+        "Personas fallecidas": 8
+    },
+    {
+        "fecha": "2017-12-22",
+        "departamento": "PIURA",
+        "casos_actuales": 100,
+        "Incidencia": 0.6854482256000001,
+        "Personas fallecidas": 8
+    },
+    {
+        "fecha": "2017-01-24",
+        "departamento": "PIURA",
+        "casos_actuales": 4,
+        "Incidencia": 0.33192091630000004,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-07-10",
+        "departamento": "PIURA",
+        "casos_actuales": 111,
+        "Incidencia": 0.7601070550000001,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-10-18",
+        "departamento": "PIURA",
+        "casos_actuales": 50,
+        "Incidencia": 0.1222213069,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-06-16",
+        "departamento": "PIURA",
+        "casos_actuales": 85,
+        "Incidencia": 0.7807231161,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-03-09",
+        "departamento": "PIURA",
+        "casos_actuales": 119,
+        "Incidencia": 0.017105616,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-01-26",
+        "departamento": "PIURA",
+        "casos_actuales": 158,
+        "Incidencia": 0.7461053103,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-05-06",
+        "departamento": "PIURA",
+        "casos_actuales": 57,
+        "Incidencia": 0.8233730324,
+        "Personas fallecidas": 16
+    },
+    {
+        "fecha": "2017-11-21",
+        "departamento": "PIURA",
+        "casos_actuales": 13,
+        "Incidencia": 0.8411350659,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-12-09",
+        "departamento": "PIURA",
+        "casos_actuales": 190,
+        "Incidencia": 0.12312249930000001,
+        "Personas fallecidas": 8
+    },
+    {
+        "fecha": "2017-12-09",
+        "departamento": "PIURA",
+        "casos_actuales": 70,
+        "Incidencia": 0.7814157037,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-01-27",
+        "departamento": "PIURA",
+        "casos_actuales": 159,
+        "Incidencia": 0.1240643476,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-12-06",
+        "departamento": "PIURA",
+        "casos_actuales": 180,
+        "Incidencia": 0.16860475020000001,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-03-15",
+        "departamento": "PIURA",
+        "casos_actuales": 111,
+        "Incidencia": 0.9758497949,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-05-23",
+        "departamento": "PIURA",
+        "casos_actuales": 40,
+        "Incidencia": 0.3726659751,
+        "Personas fallecidas": 17
+    },
+    {
+        "fecha": "2017-11-21",
+        "departamento": "PIURA",
+        "casos_actuales": 68,
+        "Incidencia": 0.0246217474,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-03-13",
+        "departamento": "PIURA",
+        "casos_actuales": 140,
+        "Incidencia": 0.2840471813,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-06-07",
+        "departamento": "PIURA",
+        "casos_actuales": 21,
+        "Incidencia": 0.9966306606,
+        "Personas fallecidas": 17
+    },
+    {
+        "fecha": "2017-03-31",
+        "departamento": "PIURA",
+        "casos_actuales": 102,
+        "Incidencia": 0.09452377440000001,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-04-01",
+        "departamento": "PIURA",
+        "casos_actuales": 75,
+        "Incidencia": 0.8244517374,
+        "Personas fallecidas": 17
+    },
+    {
+        "fecha": "2017-06-29",
+        "departamento": "PIURA",
+        "casos_actuales": 65,
+        "Incidencia": 0.3853255574,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-03-10",
+        "departamento": "PIURA",
+        "casos_actuales": 195,
+        "Incidencia": 0.3615559282,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-04-24",
+        "departamento": "PIURA",
+        "casos_actuales": 193,
+        "Incidencia": 0.7222835745,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-10-04",
+        "departamento": "PIURA",
+        "casos_actuales": 180,
+        "Incidencia": 0.6452846133,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-05-05",
+        "departamento": "PIURA",
+        "casos_actuales": 108,
+        "Incidencia": 0.46282866370000003,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-12-02",
+        "departamento": "PIURA",
+        "casos_actuales": 157,
+        "Incidencia": 0.5184948942000001,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-04-23",
+        "departamento": "PIURA",
+        "casos_actuales": 59,
+        "Incidencia": 0.5899770633,
+        "Personas fallecidas": 10
+    },
+    {
+        "fecha": "2017-07-21",
+        "departamento": "PIURA",
+        "casos_actuales": 148,
+        "Incidencia": 0.6093319162,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-10-18",
+        "departamento": "PIURA",
+        "casos_actuales": 152,
+        "Incidencia": 0.9475625906,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-07-02",
+        "departamento": "PIURA",
+        "casos_actuales": 62,
+        "Incidencia": 0.0383367412,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-03-02",
+        "departamento": "PIURA",
+        "casos_actuales": 86,
+        "Incidencia": 0.1489860305,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-06-02",
+        "departamento": "PIURA",
+        "casos_actuales": 122,
+        "Incidencia": 0.7800879494,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-11-25",
+        "departamento": "PIURA",
+        "casos_actuales": 120,
+        "Incidencia": 0.5996145114,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-10-16",
+        "departamento": "PIURA",
+        "casos_actuales": 38,
+        "Incidencia": 0.30078605610000003,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-08-21",
+        "departamento": "PIURA",
+        "casos_actuales": 32,
+        "Incidencia": 0.3130438669,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-02-03",
+        "departamento": "PIURA",
+        "casos_actuales": 68,
+        "Incidencia": 0.7682803677000001,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-08-27",
+        "departamento": "PIURA",
+        "casos_actuales": 108,
+        "Incidencia": 0.3967171284,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-08-09",
+        "departamento": "PIURA",
+        "casos_actuales": 121,
+        "Incidencia": 0.3809010849,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-10-01",
+        "departamento": "PIURA",
+        "casos_actuales": 20,
+        "Incidencia": 0.3652624458,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-06-30",
+        "departamento": "PIURA",
+        "casos_actuales": 137,
+        "Incidencia": 0.7662207884000001,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-11-12",
+        "departamento": "PIURA",
+        "casos_actuales": 107,
+        "Incidencia": 0.917953726,
+        "Personas fallecidas": 9
+    },
+    {
+        "fecha": "2017-02-03",
+        "departamento": "PIURA",
+        "casos_actuales": 181,
+        "Incidencia": 0.6842299328,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-08-14",
+        "departamento": "PIURA",
+        "casos_actuales": 186,
+        "Incidencia": 0.3700334186,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-12-23",
+        "departamento": "PIURA",
+        "casos_actuales": 130,
+        "Incidencia": 0.2562700629,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-09-18",
+        "departamento": "PIURA",
+        "casos_actuales": 125,
+        "Incidencia": 0.2470592023,
+        "Personas fallecidas": 3
+    },
+    {
+        "fecha": "2017-09-18",
+        "departamento": "PIURA",
+        "casos_actuales": 19,
+        "Incidencia": 0.5880822972,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-05-17",
+        "departamento": "PIURA",
+        "casos_actuales": 36,
+        "Incidencia": 0.23983625420000002,
+        "Personas fallecidas": 11
+    },
+    {
+        "fecha": "2017-06-02",
+        "departamento": "PIURA",
+        "casos_actuales": 31,
+        "Incidencia": 0.06644907430000001,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-02-24",
+        "departamento": "PIURA",
+        "casos_actuales": 162,
+        "Incidencia": 0.21494065710000002,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-07-14",
+        "departamento": "PIURA",
+        "casos_actuales": 19,
+        "Incidencia": 0.5492172689,
+        "Personas fallecidas": 15
+    },
+    {
+        "fecha": "2017-05-04",
+        "departamento": "PIURA",
+        "casos_actuales": 16,
+        "Incidencia": 0.0350481454,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-10-01",
+        "departamento": "PIURA",
+        "casos_actuales": 70,
+        "Incidencia": 0.21302803110000001,
+        "Personas fallecidas": 18
+    },
+    {
+        "fecha": "2017-09-05",
+        "departamento": "PIURA",
+        "casos_actuales": 116,
+        "Incidencia": 0.0577459733,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-07-07",
+        "departamento": "PIURA",
+        "casos_actuales": 146,
+        "Incidencia": 0.6041929226,
+        "Personas fallecidas": 19
+    },
+    {
+        "fecha": "2017-08-27",
+        "departamento": "TUMBES",
+        "casos_actuales": 5432,
+        "Incidencia": 0.0281484671,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-05-01",
+        "departamento": "MADRE DE DIOS",
+        "casos_actuales": 522,
+        "Incidencia": 0.7718295475,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-07-12",
+        "departamento": "SAN MARTIN",
+        "casos_actuales": 594,
+        "Incidencia": 0.3350613707,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-12-21",
+        "departamento": "LA LIBERTAD",
+        "casos_actuales": 6475,
+        "Incidencia": 0.066880148,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-07-05",
+        "departamento": "ICA",
+        "casos_actuales": 4531,
+        "Incidencia": 0.8116459157,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-04-02",
+        "departamento": "CUSCO",
+        "casos_actuales": 582,
+        "Incidencia": 0.4135481727,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-10-30",
+        "departamento": "ANCASH",
+        "casos_actuales": 1895,
+        "Incidencia": 0.6265764659,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-07-02",
+        "departamento": "HUANUCO",
+        "casos_actuales": 115,
+        "Incidencia": 0.2203242987,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-02-12",
+        "departamento": "LAMBAYEQUE",
+        "casos_actuales": 1622,
+        "Incidencia": 0.9180426943000001,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-07-01",
+        "departamento": "PASCO",
+        "casos_actuales": 5,
+        "Incidencia": 0.6728743004000001,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-03-31",
+        "departamento": "AYACUCHO",
+        "casos_actuales": 1873,
+        "Incidencia": 0.7874961894,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-04-24",
+        "departamento": "CAJAMARCA",
+        "casos_actuales": 434,
+        "Incidencia": 0.4199063465,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-08-19",
+        "departamento": "CALLAO",
+        "casos_actuales": 15,
+        "Incidencia": 0.2397018968,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-03-02",
+        "departamento": "JUNIN",
+        "casos_actuales": 299,
+        "Incidencia": 0.3415391397,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-07-16",
+        "departamento": "LIMA",
+        "casos_actuales": 370,
+        "Incidencia": 0.1811351182,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-08-27",
+        "departamento": "TUMBES",
+        "casos_actuales": 5432,
+        "Incidencia": 0.0281484671,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-05-01",
+        "departamento": "MADRE DE DIOS",
+        "casos_actuales": 522,
+        "Incidencia": 0.7718295475,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-07-12",
+        "departamento": "SAN MARTIN",
+        "casos_actuales": 594,
+        "Incidencia": 0.3350613707,
+        "Personas fallecidas": 4
+    },
+    {
+        "fecha": "2017-12-21",
+        "departamento": "LA LIBERTAD",
+        "casos_actuales": 6475,
+        "Incidencia": 0.066880148,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-07-05",
+        "departamento": "ICA",
+        "casos_actuales": 4531,
+        "Incidencia": 0.8116459157,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-04-02",
+        "departamento": "CUSCO",
+        "casos_actuales": 582,
+        "Incidencia": 0.4135481727,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-10-30",
+        "departamento": "ANCASH",
+        "casos_actuales": 1895,
+        "Incidencia": 0.6265764659,
+        "Personas fallecidas": 7
+    },
+    {
+        "fecha": "2017-07-02",
+        "departamento": "HUANUCO",
+        "casos_actuales": 115,
+        "Incidencia": 0.2203242987,
+        "Personas fallecidas": 2
+    },
+    {
+        "fecha": "2017-02-12",
+        "departamento": "LAMBAYEQUE",
+        "casos_actuales": 1622,
+        "Incidencia": 0.9180426943000001,
+        "Personas fallecidas": 14
+    },
+    {
+        "fecha": "2017-07-01",
+        "departamento": "PASCO",
+        "casos_actuales": 5,
+        "Incidencia": 0.6728743004000001,
+        "Personas fallecidas": 20
+    },
+    {
+        "fecha": "2017-03-31",
+        "departamento": "AYACUCHO",
+        "casos_actuales": 1873,
+        "Incidencia": 0.7874961894,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-04-24",
+        "departamento": "CAJAMARCA",
+        "casos_actuales": 434,
+        "Incidencia": 0.4199063465,
+        "Personas fallecidas": 12
+    },
+    {
+        "fecha": "2017-08-19",
+        "departamento": "CALLAO",
+        "casos_actuales": 15,
+        "Incidencia": 0.2397018968,
+        "Personas fallecidas": 13
+    },
+    {
+        "fecha": "2017-03-02",
+        "departamento": "JUNIN",
+        "casos_actuales": 299,
+        "Incidencia": 0.3415391397,
+        "Personas fallecidas": 6
+    },
+    {
+        "fecha": "2017-07-16",
+        "departamento": "LIMA",
+        "casos_actuales": 370,
+        "Incidencia": 0.1811351182,
+        "Personas fallecidas": 1
+    },
+    {
+        "fecha": "2017-12-31",
+        "departamento": "LIMA",
+        "casos_actuales": -999,
+        "Incidencia": 0.0,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-12-31",
+        "departamento": "LIMA",
+        "casos_actuales": -999,
+        "Incidencia": 0.0,
+        "Personas fallecidas": 0
+    },
+    {
+        "fecha": "2017-12-31",
+        "departamento": "LIMA",
+        "casos_actuales": -999,
+        "Incidencia": 0.0,
+        "Personas fallecidas": 0
+    }
+]
