@@ -1,0 +1,30 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Centrar el contenido del body */
+.centered-content {
+    text-align: center; /* Centra el texto del título */
+    margin: 0 auto; /* Centra el bloque en la página */
+    width: 80%; /* Ajusta este valor según el ancho deseado para la tabla */
+    padding: 20px; /* Espacio alrededor del contenido */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0; /* Espacio arriba y abajo de la tabla */
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: rgb(81, 159, 120);
+}

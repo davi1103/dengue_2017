@@ -1,0 +1,45 @@
+/* Restablece el margen y el relleno predeterminado */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: #8aeaad; /* Color verde bajito */
+    overflow: hidden;
+    text-align: left;
+    width: 100%;
+    padding: 0; /* Eliminar el relleno para evitar bordes blancos */
+}
+
+/* Estilos para los elementos de la barra de navegación */
+.navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 16px; /* Ajusta el relleno para cambiar la altura de la barra */
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    height: 100%; /* Establecer el alto al 100% para llenar la barra de navegación */
+    box-sizing: border-box; /* Asegurar que el padding no afecte el tamaño final */
+}
+
+/* Cambia el color de fondo al pasar el mouse */
+.navbar a:hover {
+    background-color: #b0b0b0;
+    
+}
+
+footer {
+    background-color: white; /* Color de fondo blanco */
+    color: black; /* Color de texto */
+    text-align: center; /* Alineación del texto */
+    padding: 40px 0; /* Relleno arriba y abajo del footer */
+    position: relative; /* Posicionamiento relativo */
+    bottom: 0; /* Asegúrate de que el footer se mantenga en la parte inferior */
+    width: 100%; /* El footer debe ocupar el ancho completo */
+}
